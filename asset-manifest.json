@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Palapa/static/css/main.56fdb273.css",
-    "main.js": "/Palapa/static/js/main.0b31cdef.js",
+    "main.js": "/Palapa/static/js/main.234caff2.js",
     "static/js/787.cb03950a.chunk.js": "/Palapa/static/js/787.cb03950a.chunk.js",
     "static/media/man-explain.svg": "/Palapa/static/media/man-explain.5fca2bbcbfca81f1333f85e08967dc88.svg",
     "static/media/lady_confused.svg": "/Palapa/static/media/lady_confused.af8d7d31964465c40b6b5ad022225c76.svg",
@@ -9,11 +9,11 @@
     "index.html": "/Palapa/index.html",
     "static/media/orange_elipse.svg": "/Palapa/static/media/orange_elipse.f68760fe8d08dd4350b7d52ceee20375.svg",
     "main.56fdb273.css.map": "/Palapa/static/css/main.56fdb273.css.map",
-    "main.0b31cdef.js.map": "/Palapa/static/js/main.0b31cdef.js.map",
+    "main.234caff2.js.map": "/Palapa/static/js/main.234caff2.js.map",
     "787.cb03950a.chunk.js.map": "/Palapa/static/js/787.cb03950a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.56fdb273.css",
-    "static/js/main.0b31cdef.js"
+    "static/js/main.234caff2.js"
   ]
 }
